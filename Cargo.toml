@@ -1,0 +1,8 @@
+[package]
+name = "calc"
+version = "0.1.0"
+authors = ["getynge <mtsully17@icloud.com>"]
+
+[dependencies]
+regex = "0.2.1"
+lazy_static = "0.2.5"
